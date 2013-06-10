@@ -1,0 +1,2 @@
+module Axiom::SamlHelper
+end

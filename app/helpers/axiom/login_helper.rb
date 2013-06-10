@@ -1,0 +1,2 @@
+module Axiom::LoginHelper
+end
