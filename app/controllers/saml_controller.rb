@@ -16,7 +16,7 @@ class SamlController < ApplicationController
     response = Onelogin::Saml::Response.new(params[:SAMLResponse])
 
     # insert identity provider discovery logic here
-    response.settings = Account.get_saml_settings
+    response.settings = get_saml_settings
 
     logger.info "NAMEID: #{response.name_id}"
 

@@ -79,10 +79,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="saml_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="saml_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/saml_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="131" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
+            <state line="18" column="24" selection-start="546" selection-end="546" vertical-scroll-proportion="0.65375304">
               <folding />
             </state>
           </provider>
@@ -97,10 +97,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="2" selection-start="313" selection-end="313" vertical-scroll-proportion="0.2905569">
+            <state line="10" column="122" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,10 +148,10 @@
         <option value="$USER_HOME$/.rvm/gems/ruby-1.9.3-p327/gems/ruby-saml-0.7.2/lib/onelogin/ruby-saml/authrequest.rb" />
         <option value="$PROJECT_DIR$/app/models/account.rb" />
         <option value="$PROJECT_DIR$/app/controllers/axiom/login_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/saml_controller.rb" />
         <option value="$PROJECT_DIR$/lib/onelogin/ruby-saml/authrequest.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/saml_controller.rb" />
       </list>
     </option>
   </component>
@@ -779,13 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/saml_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="131" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="138" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
@@ -837,7 +830,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="2" selection-start="313" selection-end="313" vertical-scroll-proportion="0.2905569">
+        <state line="10" column="122" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/saml_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="24" selection-start="546" selection-end="546" vertical-scroll-proportion="0.65375304">
           <folding />
         </state>
       </provider>
