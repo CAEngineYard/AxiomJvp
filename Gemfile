@@ -26,7 +26,7 @@ end
 
 gem 'jquery-rails'
 
-#gem 'ruby-saml'
+gem 'ruby-saml'
 gem 'XMLCanonicalizer'
 
 # To use ActiveModel has_secure_password
