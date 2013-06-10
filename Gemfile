@@ -30,6 +30,9 @@ gem 'jquery-rails'
 gem 'uuid'
 gem 'XMLCanonicalizer'
 
+gem 'nokogiri'
+gem 'nori'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 

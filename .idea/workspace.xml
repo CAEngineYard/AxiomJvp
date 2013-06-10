@@ -10,7 +10,7 @@
     <file path="/a.dummy" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370533589238" ignored="false" />
     <file path="/index.html.erb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370629046430" ignored="false" />
     <file path="/login_controller.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370628616217" ignored="false" />
-    <file path="/Gemfile" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370891600449" ignored="false" />
+    <file path="/Gemfile" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370892486096" ignored="false" />
     <file path="/authrequest.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370891884238" ignored="false" />
     <file path="/saml_controller.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370892214025" ignored="false" />
     <file path="/account.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370877994523" ignored="false" />
@@ -71,10 +71,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="128" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+            <state line="32" column="75" selection-start="612" selection-end="612" vertical-scroll-proportion="0.71428573">
               <folding />
             </state>
           </provider>
@@ -89,10 +89,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="saml_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="saml_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/saml_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="49" selection-start="294" selection-end="294" vertical-scroll-proportion="0.2970297">
+            <state line="9" column="124" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -151,9 +151,9 @@
         <option value="$PROJECT_DIR$/app/controllers/axiom/login_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/lib/onelogin/ruby-saml/authrequest.rb" />
         <option value="$PROJECT_DIR$/app/controllers/saml_controller.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -600,17 +600,17 @@
     <frame x="0" y="22" width="1440" height="811" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850942" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32850942" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2647059" sideWeight="0.658466" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2647059" sideWeight="0.6714906" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3487699" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34153402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34153402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -777,13 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="128" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/onelogin/ruby-saml/logging.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="10" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
@@ -798,6 +791,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/saml_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="124" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/onelogin/ruby-saml/response.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="10" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
@@ -805,9 +805,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/saml_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="49" selection-start="294" selection-end="294" vertical-scroll-proportion="0.2970297">
+        <state line="32" column="75" selection-start="612" selection-end="612" vertical-scroll-proportion="0.71428573">
           <folding />
         </state>
       </provider>
