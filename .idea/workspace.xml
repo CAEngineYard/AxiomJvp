@@ -15,7 +15,7 @@
     <file path="/saml_controller.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370884755370" ignored="false" />
     <file path="/account.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370877994523" ignored="false" />
     <file path="/fragment.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370725213773" ignored="false" />
-    <file path="/application.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370890699462" ignored="false" />
+    <file path="/application.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370890984456" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,15 +89,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="development.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="138" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,7 +101,7 @@
       <file leaf-file-name="application.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/application.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="20" selection-start="666" selection-end="666" vertical-scroll-proportion="0.32687652">
+            <state line="14" column="128" selection-start="577" selection-end="577" vertical-scroll-proportion="0.21791768">
               <folding />
             </state>
           </provider>
@@ -692,13 +683,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/axiom/login_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="43" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0">
@@ -797,9 +781,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p327/gems/railties-3.2.11/lib/rails/railtie/configurable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="595" selection-end="595" vertical-scroll-proportion="0.56416464">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="666" selection-end="666" vertical-scroll-proportion="0.32687652">
+        <state line="14" column="128" selection-start="577" selection-end="577" vertical-scroll-proportion="0.21791768">
           <folding />
         </state>
       </provider>
