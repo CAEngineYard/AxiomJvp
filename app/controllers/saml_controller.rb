@@ -1,5 +1,6 @@
 require 'onelogin/ruby-saml/settings'
 require 'onelogin/ruby-saml/authrequest'
+require 'onelogin/ruby-saml/response'
 
 class SamlController < ApplicationController
   skip_before_filter :verify_authenticity_token, :only => [:consume]
