@@ -1,4 +1,4 @@
-require 'onelogin/ruby-saml/settings'
+require 'lib/onelogin/ruby-saml/settings'
 
 class Account < ActiveRecord::Base
 
