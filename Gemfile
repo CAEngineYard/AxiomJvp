@@ -20,9 +20,13 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
+group :development do
+  gem 'pg'
+end
+
 gem 'jquery-rails'
 
-gem 'ruby-saml'
+#gem 'ruby-saml'
 gem 'XMLCanonicalizer'
 
 # To use ActiveModel has_secure_password

@@ -14,7 +14,7 @@
     <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p327/gems/ruby-saml-0.7.2/lib/schemas/xenc_schema.xsd" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370606632421" ignored="false" />
     <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p327/gems/ruby-saml-0.7.2/lib/schemas/xmldsig_schema.xsd" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370606632421" ignored="false" />
     <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p327/gems/ruby-saml-0.7.2/lib/schemas/saml20protocol_schema.xsd" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370606632421" ignored="false" />
-    <file path="/Gemfile" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370606641808" ignored="false" />
+    <file path="/Gemfile" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370868590038" ignored="false" />
     <file path="/authrequest.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370725341652" ignored="false" />
     <file path="/saml_controller.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370626314695" ignored="false" />
     <file path="/account.rb" changelist="ca542e1d-19b3-44e0-8d70-25f22d3ca5d8" time="1370866949617" ignored="false" />
@@ -38,10 +38,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="account.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="account.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/account.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="135" selection-start="768" selection-end="768" vertical-scroll-proportion="0.48165137">
+            <state line="17" column="126" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="authrequest.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/onelogin/ruby-saml/authrequest.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="10" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="37" selection-start="585" selection-end="585" vertical-scroll-proportion="0.5084746">
               <folding />
             </state>
           </provider>
@@ -116,9 +134,9 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/saml_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/axiom/login_controller.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$USER_HOME$/.rvm/gems/ruby-1.9.3-p327/gems/ruby-saml-0.7.2/lib/onelogin/ruby-saml/authrequest.rb" />
         <option value="$PROJECT_DIR$/app/models/account.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -178,101 +196,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ruby-saml (v0.7.2, RVM: ruby-1.9.3-p327) [gem]" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="AxiomJvpSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ruby-saml (v0.7.2, RVM: ruby-1.9.3-p327) [gem]" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="onelogin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ruby-saml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AxiomJvpSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AxiomJvpSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AxiomJvpSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AxiomJvpSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AxiomJvpSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AxiomJvpSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AxiomJvpSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AxiomJvpSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -761,13 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="22" selection-start="546" selection-end="546" vertical-scroll-proportion="0.96899223">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/onelogin/ruby-saml/settings.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -782,13 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/onelogin/ruby-saml/authrequest.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="10" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p327/gems/actionpack-3.2.11/lib/action_controller/metal/instrumentation.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="65" column="121" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0">
@@ -799,13 +709,6 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/axiom/login_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p327/gems/ruby-saml-0.7.2/lib/onelogin/ruby-saml/authrequest.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -826,7 +729,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/account.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="135" selection-start="768" selection-end="768" vertical-scroll-proportion="0.48165137">
+        <state line="17" column="126" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p327/gems/ruby-saml-0.7.2/lib/onelogin/ruby-saml/authrequest.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/onelogin/ruby-saml/authrequest.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="10" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="37" selection-start="585" selection-end="585" vertical-scroll-proportion="0.5084746">
           <folding />
         </state>
       </provider>
