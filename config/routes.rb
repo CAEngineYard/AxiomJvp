@@ -4,7 +4,7 @@ AxiomJvpSite::Application.routes.draw do
 
   namespace :jvp do
     resources :logins
-
+    root :to => 'logins#index'
   end
 
   namespace :axiom do
