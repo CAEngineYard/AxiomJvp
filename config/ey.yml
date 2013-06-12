@@ -1,9 +1,9 @@
 environments:
-  production:
+  AxiomJVP:
    copy_exclude:
    - .git
    precompile_assets: true
-  development:
+  AxiomJVPDev:
    copy_exclude:
    - .git
    precompile_assets: true
