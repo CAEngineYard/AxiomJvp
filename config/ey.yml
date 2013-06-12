@@ -1,0 +1,9 @@
+environments:
+  AxiomJVP:
+   copy_exclude:
+   - .git
+   precompile_assets: true
+  AxiomJVPDev:
+   copy_exclude:
+   - .git
+   precompile_assets: true
